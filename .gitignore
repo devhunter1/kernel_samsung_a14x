@@ -31,6 +31,7 @@
 *.lst
 *.lz4
 *.lzma
+security/samsung/defex_lsm/pack_rules
 *.lzo
 *.mod
 *.mod.c
