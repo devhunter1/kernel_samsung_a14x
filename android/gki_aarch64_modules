@@ -265,6 +265,7 @@ drivers/fingerprint/fingerprint.ko
 drivers/fingerprint/fingerprint_sysfs.ko
 drivers/usb/typec/slsi/common/s2m_pdic_notifier_module.ko
 drivers/battery/charger/sm5714_charger/sm5714-charger.ko
+drivers/battery/charger/sm5451_charger/sm5451-charger.ko
 drivers/gpu/drm/samsung/panel/mcd-panel.ko
 drivers/battery/charger/s2mf301_charger/s2mf301_pmeter.ko
 drivers/battery/charger/s2mf301_charger/s2mf301_charger.ko
