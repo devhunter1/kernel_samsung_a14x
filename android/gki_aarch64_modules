@@ -273,6 +273,7 @@ drivers/mfd/sm/sm5714/mfd_sm5714.ko
 drivers/input/touchscreen/novatek/nt36523_spi/novatek_ts_nt36523.ko
 drivers/input/touchscreen/ovt/td4150_spi/ovt_td4150_spi.ko
 drivers/input/touchscreen/ilitek/ili9881x/ilitek_ts_il9881x.ko
+drivers/input/touchscreen/focaltech/ft8720/focaltech_ts_ft8720.ko
 drivers/sensors_lego/a96t396.ko
 drivers/battery/common/sec_pd.ko
 drivers/battery/common/sb_wireless.ko
