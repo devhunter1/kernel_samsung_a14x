@@ -226,6 +226,8 @@ drivers/gpu/drm/samsung/panel/tft_common/usdm-panel-tft-common.ko
 drivers/gpu/drm/samsung/panel/tft_common/mcd-panel-td4160_a14x_00.ko
 drivers/gpu/drm/samsung/panel/tft_common/mcd-panel-nt36672c_a14x_01.ko
 drivers/gpu/drm/samsung/panel/tft_common/mcd-panel-ili7807_a14x_02.ko
+drivers/gpu/drm/samsung/panel/tft_common/mcd-panel-ft8720_m14x_01.ko
+drivers/gpu/drm/samsung/panel/tft_common/mcd-panel-nt36672c_m14x_00.ko
 drivers/vibrator/common/sec_vibrator.ko
 drivers/battery/fuelgauge/sm5714_fuelgauge/sm5714_fuelgauge.ko
 drivers/battery/fuelgauge/s2mf301_fuelgauge/s2mf301_fuelgauge.ko
@@ -285,6 +287,8 @@ drivers/vibrator/dc/dc_vibrator.ko
 drivers/bts/exynos-bts.ko
 drivers/bts/exynos-btsops8535.ko
 sound/soc/codecs/snd-soc-rt5691.ko
+sound/soc/codecs/snd-soc-sma1305.ko
+sound/soc/codecs/snd-soc-sma-amp.ko
 sound/soc/codecs/aw882xx/snd-soc-smartpa-aw882xx.ko
 sound/soc/samsung/snd-soc-s3c-dma.ko
 sound/soc/samsung/exynos/abox/snd-soc-samsung-abox-gic.ko
