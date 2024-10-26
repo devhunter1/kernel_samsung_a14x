@@ -278,6 +278,7 @@ drivers/input/touchscreen/ovt/td4150_spi/ovt_td4150_spi.ko
 drivers/input/touchscreen/ilitek/ili9881x/ilitek_ts_il9881x.ko
 drivers/input/touchscreen/focaltech/ft8720/focaltech_ts_ft8720.ko
 drivers/sensors_lego/a96t396.ko
+drivers/battery/common/sec-direct-charger.ko
 drivers/battery/common/sec_pd.ko
 drivers/battery/common/sb_wireless.ko
 drivers/battery/common/sec-battery.ko
