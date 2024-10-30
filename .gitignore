@@ -66,6 +66,9 @@ arch/arm64/boot/dts/samsung/m14x/m14x_eur_open_w00_r01.dtbo.reverse.dts
 arch/arm64/boot/dts/samsung/m14x/m14x_eur_open_w00_r03.dtbo.dtout
 arch/arm64/boot/dts/samsung/m14x/m14x_eur_open_w00_r03.dtbo.reverse.dts
 security/samsung/defex_lsm/pack_rules
+security/samsung/defex_lsm/cert/pubkey_eng.der
+security/samsung/defex_lsm/cert/pubkey_user.der
+security/samsung/defex_lsm/defex_packed_rules.inc
 *.lzo
 *.mod
 *.mod.c
